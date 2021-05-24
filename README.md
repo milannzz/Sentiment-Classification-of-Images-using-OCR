@@ -5,7 +5,17 @@ The problems was to classify quotes or text in images which are distributed acro
 
 Below are some examples of images -
 
+Positive -
+
 ![](https://github.com/milannzz/Image-To-Sentiment-Prediction/blob/master/Sample%20Data%20Files/Sample_Positive.jpg?raw=true)
+
+Negative -
+
+![](https://github.com/milannzz/Image-To-Sentiment-Prediction/blob/master/Sample%20Data%20Files/Sample_Positive.jpg?raw=true)
+
+Random/inconclusive -
+
+![](https://github.com/milannzz/Image-To-Sentiment-Prediction/blob/master/Sample%20Data%20Files/Sample_Random.jpg?raw=true)
 
 Results -
 
