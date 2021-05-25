@@ -1,4 +1,4 @@
-# Hacker-Earth-love-is-love-Image-to-Sentiment-Project
+# Image-to-Sentiment-Project
 
 
 The problems was to classify quotes or text in images which are distributed across the web in the categories as Positive , Negative, Random or inconclusive.
