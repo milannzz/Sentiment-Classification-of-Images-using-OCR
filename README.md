@@ -3,6 +3,10 @@
 
 The problems was to classify quotes or text in images which are distributed across the web in the categories as Positive , Negative, Random or inconclusive.
 
+To read text on images i used Google Tesseract OCR-
+Tesseract 4 adds a new neural net (LSTM) based OCR engine which is focused on line recognition, but also still supports the legacy Tesseract OCR engine of Tesseract 3 which works by recognizing character patterns.
+[Link to Official Tessract Repo](https://github.com/tesseract-ocr/tesseract)
+
 Below are some examples of images -
 
 Positive -
